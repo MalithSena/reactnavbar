@@ -1,3 +1,5 @@
+This repository was built for learning how to create a dropdown menu using ReactJs. The resource used to learn was the YouTube lesson https://www.youtube.com/watch?v=HE8jtK4FSZY&t=1729s 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
